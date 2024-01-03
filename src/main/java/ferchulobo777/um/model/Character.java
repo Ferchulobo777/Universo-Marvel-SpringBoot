@@ -25,6 +25,6 @@ public class Character {
     String description;
     String powers;
     String weapon;
-    Integer levelPower;
+    Double levelPower;
     String origin;
 }

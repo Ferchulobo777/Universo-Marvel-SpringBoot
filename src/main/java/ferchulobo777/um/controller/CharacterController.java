@@ -17,7 +17,7 @@ import java.util.Map;
 
 @RestController
 //http://localhost:8080/um/
-@RequestMapping("um")
+@RequestMapping("/")
 @CrossOrigin(value="http://localhost:5173")
 public class CharacterController {
     private static final Logger logger =
